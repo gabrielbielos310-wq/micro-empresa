@@ -1,29 +1,10 @@
 <!-- coderabbit-ai-generated:v1 -->
 
+<!-- coderabbit-ai-generated-section:v1:0ff5581474adea62d74f49878d6c47aaff2c8caf68d0c54f6bc003b9c4bb0ae5 -->
+
 # Estado do projeto
 
-## Fase 1 — Fundação
+Acompanhe a Missão 01 em [docs/PROJECT_STATUS.md](docs/PROJECT_STATUS.md).
 
-- [x] Criar estrutura inicial e espaços reservados.
-- [x] Documentar a proposta de arquitetura híbrida.
-- [x] Preparar `.gitignore` e `.env.example` sem credenciais.
-- [ ] Definir requisitos, escopo e prioridades do produto.
 
-## Fase 2 — Arquitetura detalhada
-
-- [ ] Definir responsabilidades e contratos da Eve e da integração com Claude Agent SDK.
-- [ ] Definir fluxos, segurança, persistência e integrações necessárias.
-- [ ] Escolher versões, ferramentas e estratégia de testes.
-
-## Fase 3 — Implementação
-
-- [ ] Implementar os componentes e suas integrações conforme os requisitos aprovados.
-- [ ] Desenvolver o painel administrativo Jarvis.
-- [ ] Adicionar testes e instruções de execução.
-
-## Fase 4 — Preparação para lançamento
-
-- [ ] Validar a solução e preparar a operação.
-- [ ] Definir e executar o processo de publicação quando autorizado.
-
-As fases posteriores são planejadas e ainda não foram iniciadas. Esta lista pode ser revisada conforme os requisitos forem definidos.
+<!-- /coderabbit-ai-generated:v1 -->

@@ -33,3 +33,10 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 .vercel/
+
+# Estado local do agente, traces e builds Eve
+.eve/
+.output/
+.nitro/
+
+tests/.runtime/
